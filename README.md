@@ -43,3 +43,25 @@ Imposto devido: 3472.00
 
 ## Ferramentas
 Desafio desenvolvido utilizando a linguagem Java e a IDE Intellij Community.
+
+
+## Instruções de Uso
+Antes de prosseguir com as instruções de uso, é requerido que você tenha em sua máquina o Java 20 e o git.
+
+### Instalação
+Antes de tudo, recomendo que você, pelo terminal, navegue até o diretório Desktop e rode o comando
+```bash
+# Clone o repositório
+git clone https://github.com/LucasFrancoBN/imposto-java.git
+
+# Acesse o diretório do projeto
+cd imposto-java/src
+```
+Agora basta você digitar no seu terminal
+```bash
+# Compile o projeto
+javac Program.java
+
+# Execute o programa
+java Program
+```
